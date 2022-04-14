@@ -11,4 +11,4 @@ Single linear and multi linear regression models are used and compared.
 
 # Data used:
 
-For this project, the data used (found here: https://www.kaggle.com/arashnic/fitbit) were made available through Mobius (https://www.kaggle.com/arashnic , CC0: Public Domain). The senario is completely imaginary. It was inspired by an analytics case study, BellaBeat, in google data analytics professional certificate.
+For this project, the data used (found here: https://www.kaggle.com/arashnic/fitbit) were made available through Mobius (https://www.kaggle.com/arashnic , CC0: Public Domain). The scenario is completely imaginary. It was inspired by an analytics case study, (BellaBeat), in google data analytics professional certificate.
