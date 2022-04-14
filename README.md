@@ -5,8 +5,12 @@ A high-tech manufacturer of health-focused products wants to upgrade their Calor
 # Skills
 
 **Python** was used for data preparation, processing, analysis and modeling.
-The project focuses in building and evaluating machine learning models that estimate the calories based on heartrate and steps. 
-Single linear and multi linear regression models are used and compared.
+The project focuses in building and evaluating machine learning models that estimate the calories based on heartrate and steps.
+Building and evaluating the following ML models:
+  - Single linear regression models
+  - Multi linear regression models
+  - Polynomial Regression models
+  - Support Vector Regression models
 
 
 # Data used:
