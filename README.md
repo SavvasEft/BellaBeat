@@ -4,7 +4,7 @@ BellaBeat is a high-tech manufacturer of health-focused products for women. The 
 
 # Skills
 
-**Python** was used for data preparation, processing, alysis, modeling.
+**Python** was used for data preparation, processing, analysis and modeling.
 The project focuses in building and evaluating machine learning models that estimate the calories based on heartrate and steps. 
 Single linear and multi linear regression models are used and compared.
 
