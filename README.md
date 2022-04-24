@@ -9,7 +9,7 @@ The project focuses in building and evaluating machine learning models that esti
 Building and evaluating the following ML models:
   - Single linear regression models
   - Multi linear regression models
-  - Polynomial Regression models
+  - Polynomial Regression models (Single and multivariate models)
   - Support Vector Regression models
 
 
