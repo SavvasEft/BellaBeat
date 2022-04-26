@@ -6,12 +6,15 @@ A high-tech manufacturer of health-focused products wants to upgrade their Calor
 
 **Python** was used for data preparation, processing, analysis and modeling.
 The project focuses in building and evaluating machine learning models that estimate the calories based on heartrate and steps.
-Building and evaluating the following ML models:
-  - Single linear regression models
-  - Multi linear regression models
-  - Polynomial Regression models (Single and multivariate models)
-  - Support Vector Regression models
-
+The following models where evaluated (for every user):
+  - Simple Linear Regression
+  - Multiple Linear Regression 
+  - Polynomial Regression, 2nd degree
+  - Polynomial Regression, 2nd degree (Multivariant)
+  - Polynomial Regression, 3rd degree (Multivariant)
+  - Support Vector Regression,
+  - Support Vector Regression, (Multivariant)
+  - Random Forest Regression, (Multivariant)
 
 # Data used:
 
