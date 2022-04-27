@@ -1,6 +1,6 @@
 # Project description:
 
-A high-tech manufacturer of health-focused products wants to upgrade their Calorie-burning model. The goal of this project is to build and evaluate new models on calories burned, separately for each user.
+HappySmartWatch is a high-tech manufacturer, focused on of health products. Focusing on their smart watch device, they and want to improve on how the smart watch calculates calories for different users, and upgrade their current Calorie-burning models. In this project, I build and evaluate new models on calories burned, separately for each user.
 
 # Skills
 
